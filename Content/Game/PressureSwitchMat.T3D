@@ -1,0 +1,22 @@
+Begin Object Class=/Script/Engine.Material Name="PressureSwitchMat"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.781250,G=0.000000,B=0.089371,A=0.000000)
+      ExpressionGUID=216CF2FA4851E0167BE31789FF3ACF75
+      MaterialExpressionEditorX=-260
+      MaterialExpressionGuid=DC74F1C948E0386253FE73A056BCFA4E
+      Material=Material'"PressureSwitchMat"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"'
+   ParameterGroupData(0)=(GroupName="None")
+   bCanMaskedBeAssumedOpaque=True
+   StateId=FCAB18A8495C4B8A31616FA0B80A0C13
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=38687CBF4022B4B20CFAD3A197A55C03
+End Object
